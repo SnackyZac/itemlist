@@ -83,12 +83,18 @@ of the emojis as follows:
 
 {% endif %}
 
+
 Use !modsettings to see the current rate of gaining coins.
 
 Special Modifers are applied for a few different roles. 
+
 Subscribers gain x2 +10 coins /cycle.
+
 VIPs gain x1.5 +5 coins /cycle.
+
 Mods gain x1.25 +2 coins /cycle.
+
+
 
 {%- if lootboxes == true -%}
 You'll also notice that you'll get a message from the bot about a lootbox. You can open this lootbox
