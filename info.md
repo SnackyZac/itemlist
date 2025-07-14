@@ -52,19 +52,19 @@ things the streamer curated. Depending on the purchase, these things appear in-g
 game in some way. Another way viewers can interact with the game is through the mod's polls. The
 choices in these polls depend heavily on what's enabled in the mod.
 
-## How do I get started?
-A few great commands to get started are:
-!joinqueue to be assigned a random pawn.
-!bal to see your current coin balance. 
-!buy to purchase things from the store. 
+## How do I get started?  
+A few great commands to get started are:  
+!joinqueue to be assigned a random pawn.  
+!bal to see your current coin balance.   
+!buy to purchase things from the store.   
 
-To avoid chat spam instead of publicly posting feel free to whisper me directly.  
-This rule will be applied as needed, but a good rule of thumb is if its too hard to follow a 
-conversation in chat, move to whispers please. 
+To avoid chat spam instead of publicly posting feel free to whisper me directly.    
+This rule will be applied as needed, but a good rule of thumb is if its too hard to follow a   
+conversation in chat, move to whispers please.   
 
-Commands that should be whispers:
-!allcommands as it shows ALL available commands and is a large amount of info. 
-!mypawn... checking personal pawn infomation usually isnt something everyone else needs to know.  
+Commands that should be whispers:  
+!allcommands as it shows ALL available commands and is a large amount of info.   
+!mypawn... checking personal pawn infomation usually isnt something everyone else needs to know.    
 
 
 
@@ -84,15 +84,12 @@ of the emojis as follows:
 {% endif %}
 
 
-Use !modsettings to see the current rate of gaining coins.
+Use !modsettings to see the current rate of gaining coins.  
 
-Special Modifers are applied for a few different roles. 
-
-Subscribers gain x2 +10 coins /cycle.
-
-VIPs gain x1.5 +5 coins /cycle.
-
-Mods gain x1.25 +2 coins /cycle.
+Special Modifers are applied for a few different roles.  
+- Subscribers gain x2 +10 coins /cycle.  
+- VIPs gain x1.5 +5 coins /cycle.  
+- Mods gain x1.25 +2 coins /cycle.  
 
 
 
